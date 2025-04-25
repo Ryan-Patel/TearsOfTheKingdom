@@ -7,7 +7,9 @@ TOTK_aspect_sentiment_analysis: With the same dataset I use 'yangheng/deberta-v3
 PART II
 
 totk_absa_aspect.py - model script
+
 TOTK_Aspect_Detection.ipynb - EDA on the individual aspects
+
 TOTK_ABSA_II.ipynb - Visualising results and commenting on key observations and differences with original model.
 
 I re ran the model but with 3 main differences:
